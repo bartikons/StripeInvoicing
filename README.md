@@ -16,4 +16,4 @@ API Endoint
 
 /api                        Get   (RequestParam invoiceId)    Return InvoiceDto
 
-/api/gets                   Get   (Optional StatusOfinvoice)  Return List<InvoiceDto>
+/api/gets                   Get   (Optional StatusOfinvoice)  Return List Of InvoiceDto 
